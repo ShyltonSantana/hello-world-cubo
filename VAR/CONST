@@ -1,2 +1,2 @@
 const cidade = "olinda";
-console.log("Minha cidade é ", cidade);
+console.log("Minha cidade é", cidade);
